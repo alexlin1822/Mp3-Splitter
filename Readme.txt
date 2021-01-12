@@ -1,6 +1,7 @@
 /*
 * Mp3 Splitter
 * this program can create a bat file for mp3splt.exe
+* for use this program, you have to download mp3splt 2.6.2 (09/11/14) 
 * use the bat file to split a mp3 music
 * this program use in Windows 
 *
